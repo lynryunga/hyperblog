@@ -1,5 +1,7 @@
 hola mi nombre es leynner
 
+tengo 31 años y
+
 estoy aprendiendo git 
 
 hoy es un buen dia para aprender mas
