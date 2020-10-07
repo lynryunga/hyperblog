@@ -1,9 +1,7 @@
 hola mi nombre es leynner
 
-tengo 31 años y
-
 estoy aprendiendo git 
 
-hoy es un buen dia para aprender ma
+hoy es un buen dia para aprender mas
 
-hoy hablaremos de su vida y obra maestra
+mañana nos enfocaremos en su vida laboral
