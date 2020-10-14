@@ -2,6 +2,8 @@ hola mi nombre es leynner
 
 estoy aprendiendo git 
 
+ronnynext se integra a este nuevo proyecto
+
 hoy es un buen dia para aprender mas
 
 mañana nos enfocaremos en su vida laboral
